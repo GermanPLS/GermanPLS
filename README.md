@@ -1,8 +1,7 @@
-## Hola 👋 
+## Hola !! Soy German. <👋 
 
-Soy German.
 
-Soy Ingeniero electronico.
+Soy Ingeniero electronico, recibido en UTN-FRC.
 
 Estoy explorando el mundo de los datos, dando los primeros pasos como Ingeniero de Datos.
 <!--
