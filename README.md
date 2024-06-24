@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hola 👋 
 
+Soy German.
+
+Soy Ingeniero electronico.
+
+Estoy explorando el mundo de los datos, dando los primeros pasos como Ingeniero de Datos.
 <!--
 **GermanPLS/GermanPLS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
