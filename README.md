@@ -22,7 +22,7 @@ Mis Conocimientos: ​
 
 💻 Python || Pyspark || Scriping Bash
 
-📚 Pandas || Numpy || Matplotlib || Seaborn|| Scikitlearn || Scikit-Learn || 
+📚 Pandas ||  Matplotlib || Seaborn|| 
 
 🛢 SQL ||  
 
