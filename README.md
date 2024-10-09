@@ -26,7 +26,7 @@ Actualmente, estoy explorando el mundo de los datos, dando los primeros pasos co
 - Cloud Storage (Google Cloud Storage)
 - Base de datos: Google BigQuery, MySQL, PostgreSQL
 - Apache Hadoop, Apache Hive.
-- Automatización de datos: Apache Airflow, Prefect.
+- Automatización de datos: Apache Airflow.
 - Herramientas: Power BI, Excel
 - Control de versiones: Git.
 
