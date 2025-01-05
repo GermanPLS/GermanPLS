@@ -4,9 +4,6 @@ Acerca de mi  👀
 
 
 Soy German, Ingeniero electronico, recibido en la UTN, Facultad Regional Cordoba, Argentina .
-Tengo mas de  15 años de experiencia en el sector de telecomunicaciones, especializado en mantenimiento y diseño redes de Fibra optica (FTTH) como redes de coaxil 
-(HFC).
-Poseo conocimientos en Project Manager (PMI), Metodologias Agiles y Scrum Master.
 
 Me considero una persona responsable, curiosa, autodidacta,con capacidad de trabajar de forma analitica y metodica, capacidad de planificacion Y de resolucion de problemas.
 
