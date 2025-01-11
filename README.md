@@ -18,41 +18,7 @@ Actualmente, estoy explorando el mundo de los datos, dando los primeros pasos co
 - Apache Hadoop, Apache Hive, Apache Airflow.
 - Control de versiones: Git.
 
-
-## Herramientas
-
-
- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)   ![PySpark](https://img.shields.io/badge/-PySpark-333333?style=flat&logo=apache-spark&logoColor=orange) ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash&logoColor=white)
-
- ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
-
- 
-
-  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=green)
-
- ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel&logoColor=green) ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
-
-
-![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-333333?style=flat&logo=google-cloud&logoColor=white) ![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=googlebigquery)
-
-![Hadoop](https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=apache-hadoop&logoColor=yellow)  ![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-333333?style=flat&logo=apache-hive) ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-333333?style=flat&logo=apache-spark&logoColor=orange) ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-333333?style=flat&logo=apache-airflow&logoColor=white)
-
-
-
- ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
-  ![GoogleColab](https://img.shields.io/badge/-Google_Colab-333333?style=flat&logo=googlecolab&logoColor=F9AB00)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
- 
-
-
 ### 🌐 Encuéntrame en:
-
- 
-
-
 
 </a> 
 <a href="https://www.linkedin.com/in/german-pablo-leventan-sago-7a5a6732/">
