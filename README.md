@@ -1,11 +1,9 @@
 ## Hola !! Bienvenidos  👋👋
 
-Acerca de mi  👀
-
 
 Soy German, Ingeniero electronico, recibido en la UTN, Facultad Regional Cordoba, Argentina .
 
-Me considero una persona responsable, curiosa, autodidacta,con capacidad de trabajar de forma analitica y metodica, capacidad de planificacion Y de resolucion de problemas.
+Me considero una persona  curiosa, autodidacta,con capacidad de trabajar de forma analitica y metodica, capacidad de planificacion Y de resolucion de problemas.
 
 Actualmente, estoy explorando el mundo de los datos, dando los primeros pasos como Ingeniero de Datos, en constante aprendizaje continuo y en la búsqueda de nuevos desafíos que me permitan aplicar mis conocimientos y experiencia.
 
