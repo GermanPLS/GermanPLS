@@ -26,14 +26,16 @@ Actualmente, estoy explorando el mundo de los datos, dando los primeros pasos co
 </a>
 
 
+
 </a> 
 <a href="https://github.com/GermanPLS">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="linkedin Link with logo">
 </a>
 
+
 📧  germanleventan@outlook.com
 
-
+Badge de Google Cloud Skill Boots: https://www.cloudskillsboost.google/public_profiles/29490151-ce34-4b53-95b4-0c5938ce2bcc
 
 
 
