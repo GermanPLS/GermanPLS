@@ -2,6 +2,7 @@
 
 
 Soy German, Ingeniero electronico, recibido en la UTN, Facultad Regional Cordoba, Argentina .
+
 Me considero una persona  curiosa, autodidacta,con capacidad de trabajar de forma analitica y metodica, capacidad de planificacion Y de resolucion de problemas.
 Actualmente, estoy explorando el mundo de los datos, dando los primeros pasos como Ingeniero de Datos, en constante aprendizaje continuo y en la búsqueda de nuevos desafíos que me permitan aplicar mis conocimientos y experiencia.
 
@@ -9,14 +10,15 @@ Actualmente, estoy explorando el mundo de los datos, dando los primeros pasos co
 ## Conocimientos 
 
 
-- Gestion de Proyectos, bajo estandar PMI
-- Metodologías ágiles
-- Ingeniería de datos
+- Gestion de Proyectos, bajo estandar PMI.
+- Metodologías ágiles.
+- Ingeniería de datos.
+- Actualmente estoy aprendiendo GCP: Bigquery, Cloud Storage, Pub/Sub, Dataproc, Dataform.
 - Procesos ETL/ ELT en tecnologías On Premise y Cloud (GCP)
-- Google Clous Platform : Bigquery, Cloud Storage, Pub/Sub, dataproc, Dataform.
 - Base de datos: MySQL, PostgreSQL
 - Apache Hadoop, Apache Hive, Apache Airflow.
 - Control de versiones: Git.
+- Herramientas: VSC, Docker
 
 ### 🌐 Encuéntrame en:
 
