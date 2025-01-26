@@ -12,14 +12,14 @@ Actualmente, estoy explorando el mundo de los datos, dando los primeros pasos co
 
 - Gestion de Proyectos, bajo estandar PMI.
 - Metodologías ágiles.
-- Ingeniería de datos: Procesos ETL/ ELT en tecnologías On Premise y Cloud (GCP).
+- Ingeniería de datos.
 - Actualmente estoy aprendiendo GCP: Bigquery, Cloud Storage, Pub/Sub, Dataproc, Dataform.
 - Base de datos: MySQL, PostgreSQL.
 - Apache Hadoop, Apache Hive, Apache Airflow.
 - Control de versiones: Git.
 - Herramientas: VSC, Docker.
 - Programacion: Python, SQL, Pyspark.
-- Otros: Bash, powershell, script.
+- Otros: Bash, Powershell, script.
 
 ### 🌐 Encuéntrame en:
 
