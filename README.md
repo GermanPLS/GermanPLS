@@ -1,4 +1,4 @@
-## Hola !! Bienvenidos  👋👋![image](https://github.com/user-attachments/assets/a6b3df29-a425-4dca-8dcb-1e8948800e07)
+## Hola !! Bienvenidos  👋👋
 
 
 
