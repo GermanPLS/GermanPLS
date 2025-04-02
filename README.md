@@ -1,8 +1,13 @@
-## Hola !! Bienvenidos  👋👋
+
+<div align="center">
+  <h2> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> ¡Hola! Soy German 🚀</h2>
+</div>
 
 
 
-Soy German, Ingeniero electronico, recibido en la UTN, Facultad Regional Cordoba, Argentina .
+
+
+Ingeniero Electronico (UTN -FRC) con posgrado en Gestion de Proyectos bajo estandar PMI.
 
 Me considero una persona  curiosa, autodidacta,con capacidad de trabajar de forma analitica y metodica, capacidad de planificacion Y de resolucion de problemas.
 Actualmente, estoy explorando el mundo de los datos, dando los primeros pasos como Ingeniero de Datos, en constante aprendizaje continuo y en la búsqueda de nuevos desafíos que me permitan aplicar mis conocimientos y experiencia.
