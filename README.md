@@ -18,17 +18,18 @@ Actualmente, estoy explorando el mundo de los datos, dando los primeros pasos co
 
 
 - Gestion de Proyectos, bajo estandar PMI.
-- Metodologías ágiles.
-- Ingeniería de datos: flujos de datos: ETL/ ELT, procesamientos batch y streaming. 
+- Metodologías ágiles (Scrum, produc Owner,  Kanban)
+- Ingeniería de datos: flujos de datos: ETL / ELT, procesamientos batch y streaming. 
 - Actualmente estoy aprendiendo GCP: Bigquery, Cloud Storage, Pub/Sub, Dataproc, Dataform.
 - Base de datos: MySQL, PostgreSQL.
 - Apache Hadoop, Apache Hive, Apache Airflow,  Apache Beam, Apache spark, Apache Kafka, 
   Apache NIFI.
-- Control de versiones: Git.
-- Herramientas: VSC, Docker.
-- Conocimiento de Databrikcs, Data Lake, Warehouse, Delta Lake, protocolos de comunicación IoT (MQTT) 
+- Control de Versiones: Git | Repositorios: GitHub
+- Herramientas: Visual Studio Code, Docker
+- Conocimiento de Databrikcs, Data Lake, Warehouse, Delta Lake.
 - Programacion: Python, SQL, Pyspark.
-- Otros: Bash, Powershell, script.
+- Otros: Bash, Powershell, Scripting.
+- IoT y Comunicación de Dispositivos: Protocolos MQTT, Raspberry.
 
 ### 🌐 Encuéntrame en:
 
