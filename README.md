@@ -31,6 +31,13 @@ Actualmente, estoy explorando el mundo de los datos, dando los primeros pasos co
 - Otros: Bash, Powershell, Scripting.
 - IoT y Comunicación de Dispositivos: Protocolos MQTT, Raspberry.
 
+
+#
+
+Badge de Google Cloud Skill Boots: https://www.cloudskillsboost.google/public_profiles/29490151-ce34-4b53-95b4-0c5938ce2bcc
+
+Credly: https://www.credly.com/users/german-leventan-sago
+#
 ### 🌐 Encuéntrame en:
 
 </a> 
@@ -48,7 +55,7 @@ Actualmente, estoy explorando el mundo de los datos, dando los primeros pasos co
 
 📧  germanleventan@outlook.com
 
-Badge de Google Cloud Skill Boots: https://www.cloudskillsboost.google/public_profiles/29490151-ce34-4b53-95b4-0c5938ce2bcc
+
 
 
 
