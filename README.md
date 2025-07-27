@@ -17,21 +17,13 @@ Actualmente, estoy explorando el mundo de los datos, dando los primeros pasos co
 ## Conocimientos 
 
 
-- Gestion de Proyectos, bajo estandar PMI.
-- Metodologías ágiles (Scrum, produc Owner,  Kanban)
-- Ingeniería de datos: flujos de datos: ETL / ELT, procesamientos batch y streaming. 
-- Actualmente estoy aprendiendo GCP: Bigquery, Cloud Storage, Pub/Sub, Dataproc, Dataform.
-- Base de datos: MySQL, PostgreSQL.
-- Apache Hadoop, Apache Hive, Apache Airflow,  Apache Beam, Apache spark, Apache Kafka, 
-  Apache NIFI.
-- Control de Versiones: Git | Repositorios: GitHub
-- Herramientas: Visual Studio Code, Docker
-- Conocimiento de Databrikcs, Data Lake, Warehouse, Delta Lake.
-- Programacion: Python, SQL, Pyspark.
-- Otros: Bash, Powershell, Scripting.
-- IoT y Comunicación de Dispositivos: Protocolos MQTT, Raspberry.
-
-
+**Lenguajes y scripting**: Python, SQL, Bash, Pyspark  
+**Herramientas Cloud (GCP)**: BigQuery, Pub/Sub, Dataflow, Dataproc, Cloud Storage, Dataform  
+**Frameworks y ecosistema Apache**: Beam, Spark, Kafka, Airflow, Hive, Hadoop  
+**DevOps y otros**: Docker, Git, GitHub, VSC  
+**Bases de datos**: MySQL, PostgreSQL  
+**Metodologías**: Agile, Scrum, Gestión de proyectos (PMI)
+**Electronica**:IoT y Comunicación de Dispositivos: Protocolos MQTT, Raspberry, Microcontroladores.
 #
 
 Badge de Google Cloud Skill Boots: https://www.cloudskillsboost.google/public_profiles/29490151-ce34-4b53-95b4-0c5938ce2bcc
