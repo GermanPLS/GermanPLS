@@ -29,6 +29,9 @@ Actualmente, estoy explorando el mundo de los datos, dando los primeros pasos co
 Badge de Google Cloud Skill Boots: https://www.cloudskillsboost.google/public_profiles/29490151-ce34-4b53-95b4-0c5938ce2bcc
 
 Credly: https://www.credly.com/users/german-leventan-sago
+
+Certificados de cursos: https://www.linkedin.com/in/german-pablo-leventan-sago-7a5a6732/details/certifications/
+
 #
 ### 🌐 Encuéntrame en:
 
