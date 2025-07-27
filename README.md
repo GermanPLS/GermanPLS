@@ -22,7 +22,7 @@ Actualmente, estoy explorando el mundo de los datos, dando los primeros pasos co
 **Frameworks y ecosistema Apache**: Beam, Spark, Kafka, Airflow, Hive, Hadoop  
 **DevOps y otros**: Docker, Git, GitHub, VSC  
 **Bases de datos**: MySQL, PostgreSQL  
-**Metodologías**: Agile, Scrum, Gestión de proyectos (PMI)
+**Metodologías**: Agile, Scrum, Gestión de proyectos (PMI)      
 **Electronica**:IoT y Comunicación de Dispositivos: Protocolos MQTT, Raspberry, Microcontroladores.
 #
 
